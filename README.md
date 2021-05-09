@@ -22,4 +22,5 @@ Neste trabalho, vamos tentar explorar os dados de drug-discovery fornecidos para
 ![Deep Learning](https://raw.githubusercontent.com/LPugens/imersao-dados-desafio-final/main/fig3_deep_learning.jpg)
 
 Para isso, tento utilizar Redes Neurais - Algoritmos de Machine Learning que estão dominando todas as áreas de aplicações de IA - para identificar os MoAs através dos dados extraídos automaticamente dos experimentos (ativação genétoca e taxa de sobrevivência celular).
+
 [Notebook 03 - Deep Learning](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/03_DeepLearning.ipynb)
