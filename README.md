@@ -9,10 +9,10 @@ Estes dados vem de um laboratório de pesquisa farmacêutica que busca identific
 
 No [Notebook 01 - Origem dos dados](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/01_Origem_dos_Dados.ipynb) nós temos uma análise mais detalhada da origem dos dados que nós temos disponíveis.
 
-![Correlation](https://raw.githubusercontent.com/LPugens/imersao-dados-desafio-final/main/fig4_correlation.png)
-
 ## Análise Quantitativa 📊
 Analisamos alguns dados estatísticos e identificamos algumas anormalidades nos dados que podem impactar nos resultados obtidos.
+
+![Correlation](https://raw.githubusercontent.com/LPugens/imersao-dados-desafio-final/main/fig4_correlation.png)
 
 [Notebook 02 - Análise Quantitativa](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/02_An%C3%A1lise_Quantitativa.ipynb)
 
