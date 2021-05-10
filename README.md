@@ -26,3 +26,15 @@ Para isso, tento utilizar Redes Neurais - Algoritmos de Machine Learning que est
 No notebook [Notebook 03 - Deep Learning](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/03_DeepLearning.ipynb) são testadas desde as técnicas mais simples, técnicas com dropout para evitar **overfitting** e técnicas de **debiasing** dos dados.
 
 ## Conclusões
+A aplicação escolhida foi uma das tarefas mais desafiadoras e relevantes que pode ser extraída destes dados.
+
+Utilizando os métodos mencionados, nenhum deles fez grande efeito nos resultado geral de acurácia, que ficou em geral em torno de 12% no conjunto de teste.
+
+![curva de aprendizado](https://raw.githubusercontent.com/LPugens/imersao-dados-desafio-final/main/fig6_LearningCurve.jpg)
+
+No futuro, estes resultados podem ser melhorados através de dois métodos:
+1. integração de mais dados, como por exemplo a estrutura genética das drogas pode ser transformada em um embedding através de trabalhos com [este](https://arxiv.org/abs/1805.09076), que analisa as moléculas como grafos de conexão.
+
+![molecula](https://raw.githubusercontent.com/LPugens/imersao-dados-desafio-final/main/fig7_molecule.jpg)
+
+2. Outras técnicas de pre-processamento que se apliquem melhor ao domínio.
