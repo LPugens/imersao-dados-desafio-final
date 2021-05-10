@@ -1,6 +1,8 @@
 # Deep Drug-Discovery 💊
 Desenvolvendo uma rede neural para insights na área de drug-discovery.
 
+🛑 **Disclaimer para aqueles que virem este repositório fora do contexto da competição: Eu não tenho nenhuma formação na área de ciências biológicas. As análises e conclusões apresentadas devem ser consideradas com esta informação em mente**
+
 ## Origem dos Dados 🧫
 Estes dados vem de um laboratório de pesquisa farmacêutica que busca identificar novos compostos (drogas) com carcterísticas celulares desejadas.
 
@@ -23,7 +25,7 @@ Neste trabalho, vamos tentar explorar os dados de drug-discovery fornecidos para
 
 Para isso, tento utilizar Redes Neurais - Algoritmos de Machine Learning que estão dominando todas as áreas de aplicações de IA - para identificar os MoAs através dos dados extraídos automaticamente dos experimentos (ativação genétoca e taxa de sobrevivência celular).
 
-No notebook [Notebook 03 - Deep Learning](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/03_DeepLearning.ipynb) são testadas desde as técnicas mais simples, técnicas com dropout para evitar **overfitting** e técnicas de **debiasing** dos dados.
+No notebook [Notebook 03 - Deep Learning](https://github.com/LPugens/imersao-dados-desafio-final/blob/main/Notebooks/03_DeepLearning.ipynb) são testadas desde as técnicas mais simples, técnicas com Dropout, Early Stopping e **[Debiasing](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)** dos dados.
 
 ## Conclusões
 A aplicação escolhida foi uma das tarefas mais desafiadoras e relevantes que pode ser extraída destes dados.
